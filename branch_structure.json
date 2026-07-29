@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "uiux/dnd-keyboard-alt"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "uiux/dnd-keyboard-alt": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "uiux/dnd-keyboard-alt"
+  ]
+}
